@@ -17,7 +17,7 @@ public class Samosha {
         
         return samosha;
     }
-    //this method wiil used to return the object of the class to the caller
+    //vvi-->this method wiil used to return the object of the class to the caller
     //NOTE :-> But, this method can called multiple times and 
     // it will create multiple instances of the class which is not what we want in a singleton pattern
 }
